@@ -54,7 +54,7 @@ All features were manually tested:
 ## 📂 Project Setup
 
 ```bash
-git clone https://github.com/[your-username]/calculator
+git clone https://github.com/ShahdTarek4/Aider
 cd calculator
 npm install
 npm start
