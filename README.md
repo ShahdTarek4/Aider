@@ -55,6 +55,6 @@ All features were manually tested:
 
 ```bash
 git clone https://github.com/ShahdTarek4/Aider
-cd calculator
+cd Aider
 npm install
 npm start
